@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace P2EJ6
 {
@@ -36,13 +35,15 @@ namespace P2EJ6
                 Console.WriteLine("La siguiente letra del abecedario es G");
             } */
 
+            string abecedario = "abcdefghijklmnopqrstuvwxyz";
 
-            Console.WriteLine("Ingrese una letra minuscula (desde a hasta f) para saber cual es la siguiente letra del abecedario");
-            char eleccion = char.Parse(Console.ReadLine());
-            for (char letra = eleccion; letra <= 'f'; letra++) {
-                Console.WriteLine($"La siguiente letra del abecedario es: {letra}");
-                break;
-            }          
+            Console.Write("Ingresa una letra del abecedario: ");
+            char letra = Console.ReadLine().ToLower()[0];
+
+            int indice = abecedario.IndexOf(letra);
+            char siguienteLetra = abecedario[(indice + 1) % abecedario.Length];
+
+            Console.WriteLine("La siguiente letra es: " + siguienteLetra);
         }
     }
 }
