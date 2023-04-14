@@ -1,0 +1,8 @@
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\bin\Debug\P2EJ5.exe.config
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\bin\Debug\P2EJ5.exe
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\bin\Debug\P2EJ5.pdb
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\obj\Debug\P2EJ5.csproj.AssemblyReference.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\obj\Debug\P2EJ5.csproj.SuggestedBindingRedirects.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\obj\Debug\P2EJ5.csproj.CoreCompileInputs.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\obj\Debug\P2EJ5.exe
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\Practica2LinQ\P2EJ5\P2EJ5\obj\Debug\P2EJ5.pdb
